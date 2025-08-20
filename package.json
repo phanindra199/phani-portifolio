@@ -1,7 +1,7 @@
 {
   "name": "portifolio-app",
   "private": true,
-  "homepage": "https://phanindra199.github.io/phani-portifolio.git",
+  "homepage": "https://phanindra199.github.io/phani-portifolio.git/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
